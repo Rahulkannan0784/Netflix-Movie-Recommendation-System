@@ -1,6 +1,6 @@
 # Netflix Movie Recommendation System
 
-This project uses the Apriori algorithm to generate movie recommendations based on user viewing patterns.
+This project leverages the Apriori algorithm to generate personalized movie recommendations based on user viewing patterns. The aim is to identify associations between different movies that users commonly watch together and use these associations to suggest movies that a user might like based on their viewing history.
 
 ## Features
 
